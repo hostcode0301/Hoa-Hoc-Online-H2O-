@@ -1,0 +1,177 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hoahoconline.com" resolutions="1x" timestamp="1514782737943">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_menu.css" crc="3941629622" ref="chi-tiết-dt:đăng-nhập:lý-thuyết:đăng-ký:chi-tiết-lt:bài-tập:index:chi-tiết-bt:đề-thi:giới-thiệu"/>
+    <file name="nomq_preview_master_menu.css" crc="423028169" ref="chi-tiết-dt:đăng-nhập:lý-thuyết:đăng-ký:chi-tiết-lt:bài-tập:index:chi-tiết-bt:đề-thi:giới-thiệu"/>
+    <file name="chi-ti_t-dt.css" crc="431533855" ref="chi-tiết-dt"/>
+    <file name="nomq_chi-ti_t-dt.css" crc="321841997" ref="chi-tiết-dt"/>
+    <file name="__ng-nh_p.css" crc="3937562934" ref="đăng-nhập"/>
+    <file name="nomq___ng-nh_p.css" crc="4014841368" ref="đăng-nhập"/>
+    <file name="l_-thuy_t.css" crc="3937562934" ref="lý-thuyết"/>
+    <file name="nomq_l_-thuy_t.css" crc="4014841368" ref="lý-thuyết"/>
+    <file name="__ng-k_.css" crc="3937562934" ref="đăng-ký"/>
+    <file name="nomq___ng-k_.css" crc="4014841368" ref="đăng-ký"/>
+    <file name="chi-ti_t-lt.css" crc="4089168160" ref="chi-tiết-lt"/>
+    <file name="nomq_chi-ti_t-lt.css" crc="3826364770" ref="chi-tiết-lt"/>
+    <file name="b_i-t_p.css" crc="3937562934" ref="bài-tập"/>
+    <file name="nomq_b_i-t_p.css" crc="4014841368" ref="bài-tập"/>
+    <file name="index.css" crc="3957169102" ref="index"/>
+    <file name="nomq_index.css" crc="315190005" ref="index"/>
+    <file name="chi-ti_t-bt.css" crc="3833250177" ref="chi-tiết-bt"/>
+    <file name="nomq_chi-ti_t-bt.css" crc="4030857660" ref="chi-tiết-bt"/>
+    <file name="__-thi.css" crc="3937562934" ref="đề-thi"/>
+    <file name="nomq___-thi.css" crc="4014841368" ref="đề-thi"/>
+    <file name="gi_i-thi_u.css" crc="495303159" ref="giới-thiệu"/>
+    <file name="nomq_gi_i-thi_u.css" crc="14647592" ref="giới-thiệu"/>
+  </folder>
+  <folder name="assets">
+    <file name="004-time.eps" crc="4226668925" seo="true" mt="1502954260000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="museutils.js" crc="3803043152" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="whatinput.js" crc="86476730" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="webpro.js" crc="242022427" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:giới-thiệu"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:giới-thiệu"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:giới-thiệu"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u14754.php" crc="323583842" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="require.js" crc="4157109226" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="giới-thiệu"/>
+  </folder>
+  <folder name="images">
+    <file name="u4650-7.png" crc="4259123324" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="banner vna3.jpg" crc="4016144456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:giới-thiệu:lý-thuyết:bài-tập:đề-thi:đăng-nhập:chi-tiết-lt:chi-tiết-bt:chi-tiết-dt:đăng-ký"/>
+    <file name="banner_13_.jpg" crc="3919642301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_2.jpg" crc="424696921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner1.jpg" crc="472650521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-116017x100.svg" crc="3892983382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 116017x100_poster_.png" crc="3883488605" ref="index"/>
+    <file name="500_f_91782081_bz1tiqah6pkavlv2u32axbb3pazdjqal.jpg" crc="3903355026" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="500_f_85142429_ogzvce3aavwzvhgzp5dcqxhfqugy1uuf.jpg" crc="84087660" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="500_f_38773183_hiqlppbxry3ienfj8vukacrctjbyho3o.jpg" crc="312167664" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="pasted-svg-409602x409.svg" crc="28899739" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="pasted svg 409602x409_poster_.png" crc="4145038081" ref="giới-thiệu"/>
+    <file name="pasted-svg-409602x4092.svg" crc="3791217550" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="pasted svg 409602x409_poster_2.png" crc="351911787" ref="giới-thiệu"/>
+    <file name="pasted-svg-379258x409.svg" crc="83757270" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="pasted svg 379258x409_poster_.png" crc="4117871389" ref="giới-thiệu"/>
+    <file name="pasted-svg-409602x4093.svg" crc="163059938" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="pasted svg 409602x409_poster_3.png" crc="4136961361" ref="giới-thiệu"/>
+    <file name="500_f_52402403_9khptdld38nr1pfwyr2jyogyaha3lijk.jpg" crc="4047310591" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="500_f_91782081_bz1tiqah6pkavlv2u32axbb3pazdjqal-u5998-fr.jpg" crc="4267760855" ref="giới-thiệu"/>
+  </folder>
+  <file name="index.html" crc="4120265594" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="giới-thiệu.html" crc="4118265843" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="lý-thuyết.html" crc="3815381655" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="bài-tập.html" crc="3858733534" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="đề-thi.html" crc="3765675247" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="đăng-nhập.html" crc="254237678" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="chi-tiết-lt.html" crc="3922916271" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="chi-tiết-bt.html" crc="518542394" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="chi-tiết-dt.html" crc="3885248224" seo="true" mt="1514782650751" redirect="true"/>
+  <file name="đăng-ký.html" crc="254980554" seo="true" mt="1514782650751" redirect="true"/>
+</manifest>
